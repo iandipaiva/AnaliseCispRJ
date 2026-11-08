@@ -1,4 +1,4 @@
-### ANÁLISE ESTATÍSTICA DOS ROUBOS DE VEÍCULOS POR MUNICÍPIO RJ
+### ANÁLISE ESTATÍSTICA DOS ROUBOS DE VEICULOS RJ
 
 import pandas as pd 
 import numpy as np
