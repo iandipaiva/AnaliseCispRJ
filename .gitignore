@@ -1,0 +1,28 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+*.sqlite
+/.vs/Github.slnx/FileContentIndex/fe6cd159-7a48-4b3a-9360-5b7122e1a69b.vsidx
+/.vs/Github.slnx/FileContentIndex/bb7c61b3-75c6-4cf0-b302-ce1b841ee5b3.vsidx
+/.vs/slnx.sqlite-journal
+/.vs/Github.slnx/FileContentIndex/cdbcfa38-7378-4c75-8886-d7118ab8005d.vsidx
+/.vs/Github.slnx/FileContentIndex/b137c4b5-ae44-4feb-8a52-776b1a13a49f.vsidx
+/.vs/Github.slnx/FileContentIndex/662ae7b3-3319-4868-8bf5-add3a444ab58.vsidx
+/.vs/Github.slnx/FileContentIndex/2317ed63-7240-4ae8-8d50-af6e525278d0.vsidx
+/.vs/Github.slnx/FileContentIndex/5c8b97c9-9606-40ea-9836-23e94cd768ca.vsidx
+
+##############################################################################
+# Python
+__pycache__/
+*.py[cod]
+
+##############################################################################
+# Jupyter
+.ipynb_checkpoints/
+
+##############################################################################
+# Dados
+*.csv
+*.xlsx
+*.xls
